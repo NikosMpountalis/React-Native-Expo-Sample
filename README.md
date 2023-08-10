@@ -6,7 +6,7 @@
   npm i
 ```
 
-This will install all the necessacry dependencies.
+This will install all the necessary dependencies.
 
 #### After the installation is completed on your terminal you can execute:
 
